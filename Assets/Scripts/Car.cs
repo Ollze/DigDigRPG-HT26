@@ -15,7 +15,7 @@ public class Car : MonoBehaviour
     public float brakepower = 3000f;
 
     
-    public Vector3 centerOfMass = new Vector3(0f, -1f, 0f);
+    public Vector3 centerOfMass = new Vector3(0f, -1.5f, 0f);
 
     float horizontalInput;
     float verticalInput;
